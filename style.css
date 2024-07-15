@@ -27,14 +27,12 @@ body {
   font-size: 2rem;
   font-weight: 700;
   margin-bottom: 5%;
-  position: relative;
 }
 .btn {
   display: flex;
   justify-content: space-evenly;
   width: 100%;
   height: 80%;
-  /* background-color: aquamarine; */
 }
 .btn1 {
   background: rgb(48, 55, 44);
@@ -59,7 +57,7 @@ body {
     rgba(55, 6, 6, 0.7736344537815126) 97%
   );
   width: 20%;
-  height: 6%;
+  height: 10%;
   border-radius: 9px;
-  position: absolute;
+  position: relative;
 }
